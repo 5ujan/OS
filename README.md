@@ -22,17 +22,17 @@ This case study explores **Alpine Linux**, a lightweight and security-oriented L
 ### Graphical User Interface (GUI)
 Installed **XFCE** for a minimal desktop environment, enhancing usability while keeping resource consumption low.
 
-![Alpine XFCE Desktop](OS%20images/OS%20images/desktop.png)
+![Alpine XFCE Desktop](https://raw.githubusercontent.com/5ujan/OS/refs/heads/main/screenshots/desktop.png)
 
 ### File Sharing Setup
 Configured a custom **HTTP-based file transfer** solution for seamless file sharing between host and VM.
-![File Sharing Server](OS%20images/OS%20images/using-file-share-server.png)
+![File Sharing Server](https://raw.githubusercontent.com/5ujan/OS/refs/heads/main/screenshots/using-file-share-server.png)
 
 
 ### Custom ISO
 Created an Alpine-based **custom ISO** with pre-installed tools and configurations.
 
-![Custom ISO Creation](OS%20images/OS%20images/screenshot.png)
+![Custom ISO Creation](https://github.com/5ujan/OS/blob/main/screenshots/custom-image-installation.png?raw=true)
 
 
 ## Use Cases
